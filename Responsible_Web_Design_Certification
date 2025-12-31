@@ -155,3 +155,53 @@ Build an HTML audio and video player
   </section>
 </body>
 </html>
+
+Build a Video Compilation Page
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+<body>
+    <main>
+        <h1>Video Compilation Page</h1>
+        <p>A series of videos to help you through your day</p>
+        <section>
+          <h2>Final 5:02 WILD ENDING mavericks vs trail blazers</h2>
+          <p>December 29, 2025</p>
+          <iframe
+            src="https://www.youtube.com/watch?v=I8tPnp2kBJ8"
+            title="Mavericks VS Trails Blazers"
+            height="200"
+            width="300"
+          >
+          </iframe>          
+        </section>
+        <section>
+          <h2>The 2026 Draft isAbout to BREAK the NBA</h2>
+          <p>December 1, 2025</p>
+          <iframe
+            src="https://www.youtube.com/watch?v=qKvt4Ma6lBc"
+            title="The 2026 Draft Is About To BREAK The NBA"
+            height="200"
+            width="300"
+          >
+          </iframe>
+        </section>
+        <section>
+          <h2>The NBA Was Wrong About The 2025 Draft Class</h2>
+          <p>November 30, 2025</p>
+          <iframe
+            src="https://www.youtube.com/watch?v=w2gObpz2UvA"
+            title="The NBA Was Wrong About The 2025 Draft Class"
+            height="200"
+            width="300"
+          >
+          </iframe>
+        </section>
+    </main>
+</body>
+</html>
+
